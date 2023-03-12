@@ -1,13 +1,13 @@
-### RollingCube
+# Rolling Cube
 
-Игра об игральной кости.
+The game is about the dice.
 
-# Цель игры
+# The goal of the game
 
-Игра состоит из уровней, в каждом из которых вам предстоит провести игральную кость до финиша, решая различные задачи.
+The game consists of levels, in each of which you have to hold the dice to the finish line, solving various tasks.
 
-# Управление
+# Management
 
-Нажмите в любом месте на экране, чтобы появился джойстик. Проведите вверх/вниз/влево/вправо для перемещения кости.
+Tap anywhere on the screen to make the joystick appear. Swipe up/down/left/right to move the dice.
 
-Simple Unity Game myy teammate and I made during summer practice in QOOLO
+Simple Unity Game my teammate and I made during summer practice in QOOLO
