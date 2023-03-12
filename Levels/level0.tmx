@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="375" tileheight="375" infinite="0" nextlayerid="8" nextobjectid="158">
+ <tileset firstgid="1" source="rollingcube.tsx"/>
+ <layer id="6" name="dirt and water" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA9MCRDPTomRw8h/YT04NJPij50/eT4ixS9xNhLSA8uvYTch8895OolR45SvfiAEQV6cQEAa1ENmQ==
+  </data>
+ </layer>
+ <layer id="7" name="objects" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA9YB8gvVwUmE2JXkJuJmQ2Ib3E6MfmBpg+QwLuwWb+QMUhuYB1AOwkFwAAZO8Avw==
+  </data>
+ </layer>
+</map>
